@@ -1,3 +1,5 @@
+<img width="354" height="314" alt="download" src="https://github.com/user-attachments/assets/5a349b08-9594-4141-89e6-af6aba576f04" />
+
 [SECURITY.md](https://github.com/user-attachments/files/32591512/SECURITY.md)
 # Security Policy
 
